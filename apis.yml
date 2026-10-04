@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/skfin.png
-name: SK Finance Ltd
+name: SK Finance
 description: 'SK Finance Ltd (skfin.in) is a Jaipur, India-based non-banking financial
   company (NBFC) providing asset-backed retail lending. Its products span commercial
   vehicle, car, tractor, construction-equipment and two-wheeler loans alongside secured
@@ -44,7 +44,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Lending
 - NBFC
 - Vehicle Finance
@@ -60,6 +60,7 @@ tags_raw:
 - Small Business Loans
 - India
 - Fintech
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -76,3 +77,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: SK Finance Ltd
